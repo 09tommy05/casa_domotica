@@ -2,7 +2,7 @@
 
 Codice backend e frontend della casa domotica (progetto telecomunicazioni).
 
-## Indice / Table of Contents
+## Table of Contents
 - [Description](#description)
 - [Features](#features)
 - [Hardware Components](#hardware-components)
